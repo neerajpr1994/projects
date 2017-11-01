@@ -1,2 +1,3 @@
 # projects
-For practising git commands
+For practising git commands through gitbash
+
